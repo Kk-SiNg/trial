@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-//my name is kks
+// my name is kks and i am btech 1st year student in iit mandi
 
-=======
-//my name is kks
->>>>>>> parent of e7c2e0b (shortened)
