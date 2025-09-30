@@ -6,7 +6,8 @@ int main(){
     int t; 
     cin >>t;
 
-    cout << "1st\n";
+    cout << "1st and fouls\n";
     cout << "2nd\n";
-    cout << "\n";
+    cout << "yoyo\n";
+    cout << "hmm";
 }
