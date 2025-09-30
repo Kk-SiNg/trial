@@ -8,4 +8,5 @@ int main(){
 
     cout << "1st\n";
     cout << "2nd\n";
+    cout << "\n";
 }
