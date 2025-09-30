@@ -1,9 +1,9 @@
-#include <iostream>
+#include <iostream>         // blue indicate edited line
 
 using namespace std;
 
 int main(){
-    int t; 
-    cin >>t;
-    cout << "i am learning git\n";
+
+    cout << "green indicates line added\n";
+    cout << "yo\n";
 }
