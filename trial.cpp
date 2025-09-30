@@ -7,4 +7,5 @@ int main(){
     cin >>t;
 
     cout << "1st\n";
+    cout << "2nd\n";
 }
